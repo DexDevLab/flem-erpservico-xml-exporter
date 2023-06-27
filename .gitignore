@@ -37,7 +37,7 @@ src/controllers/authController/authDb.js
 .env.production
 .env
 
-src/services/auth/authDb.js
 /.vscode
-/public/resources/portalppe_template_planilha_de_importacao.xlsx
-/public/resources/portalppe_especificacao_de_melhoria_tecnologica.pdf
+
+*.tsbuildinfo
+next-env.d.ts

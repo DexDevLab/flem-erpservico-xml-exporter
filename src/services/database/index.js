@@ -1,0 +1,1 @@
+export { executeQuery } from "./executeQuery";
